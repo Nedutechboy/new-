@@ -1,0 +1,50 @@
+ifconfig---- to show your IP and other configuratons
+
+whoami------- to know the exact user
+
+vi------ to edit a file
+
+vim------- file editor
+
+Nano----- file editor
+
+CAT ------- TO read a file
+
+
+Touch------- to create a file
+
+
+mkdir--------- to make a directory
+
+
+cp------ to copy
+
+
+rm ------ to remove a file
+
+chmod----- to change the attribute of a file
+
+ls----- to list
+
+pwd------- print working directory
+
+su-------- sudo command
+
+rmdir----- to remove a directory
+
+cd----- to change directory
+
+id---- to display user ID
+
+
+mv---- to move a file 
+
+find -------- to find a file
+
+useradd------ to add a user
+
+groupadd ----- to add a group
+
+clear---- to clear your terminal
+
+exit ---- to exit a function
